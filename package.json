@@ -1,0 +1,23 @@
+{
+  "name": "total-calorie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChishoTakemura/total-calorie.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChishoTakemura/total-calorie/issues"
+  },
+  "homepage": "https://ChishoTakemura.github.io/total-calorie",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
